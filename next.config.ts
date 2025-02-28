@@ -5,3 +5,9 @@ const nextConfig: NextConfig = {
 };
 
 export default nextConfig;
+
+module.exports = {
+  eslint: {
+    ignoreDuringBuilds: false, // Change this to false to stop builds on ESLint errors
+  },
+};
