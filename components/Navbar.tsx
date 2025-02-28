@@ -9,7 +9,7 @@ export default function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false);
 
   const tabs = [
-    { name: "Home", link: "/" },
+    // { name: "Home", link: "/" },
     {name:"About",link:"#about"},
     { name: "Experience", link: "#experience" },
     { name: "Projects", link: "#projects" },
