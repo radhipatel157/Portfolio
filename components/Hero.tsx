@@ -15,10 +15,10 @@ export default function Hero() {
   return (
     <section id="home" className="grid grid-cols-1 lg:grid-cols-2 gap-10 py-8 sm:py-14 relative mt-16">
       {/* Decorative background elements */}
-      <div className="absolute inset-0 overflow-hidden opacity-10 z-0">
+      {/* <div className="absolute inset-0 overflow-hidden opacity-10 z-0">
         <div className="absolute top-1/4 right-1/4 w-64 h-64 bg-purple-500 rounded-full blur-3xl"></div>
         <div className="absolute bottom-1/4 left-1/4 w-64 h-64 bg-blue-500 rounded-full blur-3xl"></div>
-      </div>
+      </div> */}
       
       <div className="flex flex-col lg:justify-center text-center lg:text-left gap-6 md:gap-8 lg:gap-10 z-10">
         <h2 className="font-semibold text-4xl sm:text-5xl md:text-6xl">

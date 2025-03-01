@@ -105,7 +105,7 @@ export default function Navbar() {
     <nav
       className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
         scrolled
-          ? "bg-opacity-80 backdrop-filter backdrop-blur-lg shadow-md bg-slate-950"
+          ? "bg-opacity-80 backdrop-filter backdrop-blur-lg shadow-md"
           : "bg-opacity-0"
       }`}
     >

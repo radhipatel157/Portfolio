@@ -115,7 +115,7 @@ export default function Projects() {
             className="p-4 sm:p-6 flex flex-col gap-4 rounded-lg border border-solid border-violet-700 text-center cursor-pointer group hover:border-violet-400 duration-200"
             onClick={() => setSelectedProject(project)}
           >
-            <div className="bg-slate-950 grid place-items-center px-4 text-5xl md:text-6xl -mt-10 sm:-mt-12 md:-mt-14 lg:-mt-16 mx-auto duration-200">
+            <div className=" grid place-items-center px-4 text-5xl md:text-6xl -mt-10 sm:-mt-12 md:-mt-14 lg:-mt-16 mx-auto duration-200">
               <i className={project.icon}></i>
             </div>
             
