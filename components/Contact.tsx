@@ -101,7 +101,7 @@ export default function Contact() {
             </a>
             
             <a 
-              href="https://github.com/"
+              href="https://github.com/radhipatel157"
               target="_blank"
               rel="noopener noreferrer"
               className="flex flex-col items-center p-6 border border-gray-700 rounded-lg bg-gray-800 bg-opacity-40 backdrop-filter backdrop-blur-sm hover:border-violet-400 transition duration-300"
