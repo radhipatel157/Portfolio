@@ -22,7 +22,7 @@ export default function Hero() {
       
       <div className="flex flex-col lg:justify-center text-center lg:text-left gap-6 md:gap-8 lg:gap-10 z-10">
         <h2 className="font-semibold text-4xl sm:text-5xl md:text-6xl">
-          Hi! I'm <span className="text-violet-400">Radhi</span> Patel,
+          Hi! I am <span className="text-violet-400">Radhi</span> Patel,
           <br />
           {mounted && (
             <TypeAnimation
